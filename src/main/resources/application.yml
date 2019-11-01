@@ -1,6 +1,6 @@
 spring:
   rsocket:
     server:
-      transport: TCP
-      port: 7000
-#      mapping-path: /aiod.
+      transport: WEBSOCKET
+#      port: 7000
+      mapping-path: /aiod

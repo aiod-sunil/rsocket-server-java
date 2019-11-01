@@ -7,7 +7,7 @@ import reactor.core.publisher.Mono;
 
 import java.time.Instant;
 
-@RestController
+@Controller
 public class HelloController {
 
 
